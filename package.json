@@ -69,7 +69,7 @@
     "oauth-1.0a": "^2.2.4",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
-    "passport-mediawiki-oauth": "https://github.com/hassanamin994/passport-mediawiki-oauth",
+    "passport-mediawiki-oauth": "git+https://github.com/hassanamin994/passport-mediawiki-oauth.git",
     "passport-oauth": "^1.0.0",
     "pm2": "^3.2.5",
     "popup-tools": "^1.0.2",
